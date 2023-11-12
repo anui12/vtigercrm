@@ -8,7 +8,7 @@ package ParellelExecution;
 	public class groups {
 
 		@Test
-		public void facebook() {
+		public void WebDrivers() {
 		WebDriver d=new ChromeDriver();
 		d.get("https://www.facebook.com/");
 		}
