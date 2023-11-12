@@ -26,6 +26,8 @@ package ParellelExecution;
 		public void instagram() {
 			WebDriver d=new ChromeDriver();
 			d.get("https://www.instagram.com/direct/inbox/");
+
+			System.out.println("aniket");
 		}
 	}
 
